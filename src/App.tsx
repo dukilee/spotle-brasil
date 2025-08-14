@@ -6,7 +6,7 @@ import items from "./assets/dicionario.json";
 
 function getDailyItem(): InterfaceDictionaryEntry {
   const today = new Date();
-  const seed = today.getFullYear() * 10300 + (today.getMonth() + 1) * 100 + today.getDate();
+  const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
 
   // Simple pseudo-random generator based on date seed
   const random = Math.sin(seed) * 10000;

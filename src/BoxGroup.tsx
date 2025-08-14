@@ -20,19 +20,22 @@ type BoxGroupProps = {
 const BoxGroup: React.FC<BoxGroupProps> = ({name, year, members, genre, gender, brazilian, statusName, statusYear, statusMembers, statusGenre, statusGender, statusBrazilian}) => {
 
   return (
+    <>
     <div  style={{
           display: "flex",         // side by side
           gap: "8px",               // space between items
           marginTop: "16px",
           flexWrap: "wrap"          // allows wrapping to next line if needed
         }}>
-        <Box title="Ano" number={name} status={statusName} />
+        <Box title="Nome" number={name} status={statusName} />
         <Box title="Ano" number={year} status={statusYear} />
-        <Box title="Ano" number={members} status={statusMembers} />
-        <Box title="Ano" number={genre} status={statusGenre} />
-        <Box title="Ano" number={gender} status={statusGender} />
-        <Box title="Ano" number={brazilian} status={statusBrazilian} />
+        <Box title="Membros" number={members} status={statusMembers} />
+        <Box title="Estilo" number={genre} status={statusGenre} />
+        <Box title="Sexo" number={gender} status={statusGender} />
+        <Box title="BR" number={brazilian} status={statusBrazilian} />
     </div>
+    _______________________________
+    </>
   );
 };
 
