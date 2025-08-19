@@ -14,7 +14,7 @@ function fuzzyMatch(input: string, target: string) {
     }
     j++;
   }
-  return i === input.length;
+  return i === input.length && !begginingMatch(input, target);
 }
 
 function begginingMatch(input: string, target: string) {
