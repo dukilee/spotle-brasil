@@ -1,23 +1,31 @@
 [
   {
+    "name": "Adele",
+    "year": 2008,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
     "name": "Adriana Calcanhoto",
     "year": 1990,
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
-  },
-  {
-    "name": "Agnaldo TimÃ³teo",
-    "year": 1964,
-    "members": 1,
-    "genre": "mpb",
-    "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Agnaldo Rayol",
     "year": 1958,
+    "members": 1,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Agnaldo Timóteo",
+    "year": 1964,
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
@@ -32,7 +40,7 @@
     "brazilian": "n"
   },
   {
-    "name": "Alceu ValenÃ§a",
+    "name": "Alceu Valença",
     "year": 1972,
     "members": 1,
     "genre": "mpb",
@@ -45,7 +53,7 @@
     "members": 8,
     "genre": "mpb",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Art Popular",
@@ -53,7 +61,7 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "As Meninas",
@@ -61,7 +69,23 @@
     "members": 4,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Avril Lavigne",
+    "year": 2002,
+    "members": 1,
+    "genre": "rock",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Babado Novo",
+    "year": 2003,
+    "members": 5,
+    "genre": "mpb",
+    "gender": "misto",
+    "brazilian": "n"
   },
   {
     "name": "Baby Consuelo",
@@ -69,7 +93,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Backstreet Boys",
@@ -85,7 +109,7 @@
     "members": 5,
     "genre": "mpb",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Banda Eva",
@@ -93,7 +117,7 @@
     "members": 7,
     "genre": "mpb",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Banda mel",
@@ -101,10 +125,10 @@
     "members": 8,
     "genre": "mpb",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "BarÃ£o Vermelho",
+    "name": "Barão Vermelho",
     "year": 1982,
     "members": 4,
     "genre": "rock",
@@ -125,7 +149,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Beto Barbosa",
@@ -133,6 +157,14 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Beyoncé",
+    "year": 2003,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
     "brazilian": "s"
   },
   {
@@ -141,7 +173,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Bon Jovi",
@@ -152,12 +184,36 @@
     "brazilian": "n"
   },
   {
+    "name": "Britney Spears",
+    "year": 1998,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Bruno & Marrone",
+    "year": 1985,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Bruno Mars",
+    "year": 2010,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
     "name": "Caetano Veloso",
     "year": 1967,
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Capital Inicial",
@@ -165,7 +221,7 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Carlinhos Brown",
@@ -173,6 +229,14 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Cássia Eller",
+    "year": 1990,
+    "members": 1,
+    "genre": "rock",
+    "gender": "mulheres",
     "brazilian": "s"
   },
   {
@@ -181,7 +245,7 @@
     "members": 1,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Celine Dion",
@@ -192,12 +256,20 @@
     "brazilian": "n"
   },
   {
+    "name": "Charlie Brown Jr.",
+    "year": 1997,
+    "members": 5,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
     "name": "Cheiro de Amor",
     "year": 1983,
     "members": 6,
     "genre": "mpb",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Cher",
@@ -213,10 +285,10 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "ChitÃ£ozinho & XororÃ³",
+    "name": "Chitãozinho & Xororó",
     "year": 1970,
     "members": 2,
     "genre": "sertanejo",
@@ -237,7 +309,7 @@
     "members": 2,
     "genre": "sertanejo",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Cidade Negra",
@@ -245,7 +317,7 @@
     "members": 5,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Clara Nunes",
@@ -253,7 +325,15 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Claudia Leitte",
+    "year": 2003,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Claudinho & Buchecha",
@@ -261,15 +341,7 @@
     "members": 2,
     "genre": "rap",
     "gender": "homens",
-    "brazilian": "s"
-  },
-  {
-    "name": "CÃ¡ssia Eller",
-    "year": 1990,
-    "members": 1,
-    "genre": "rock",
-    "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Daniel",
@@ -277,7 +349,7 @@
     "members": 1,
     "genre": "sertanejo",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Daniela Mercury",
@@ -285,7 +357,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Djavan",
@@ -293,6 +365,14 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "É o Tchan",
+    "year": 1994,
+    "members": 6,
+    "genre": "mpb",
+    "gender": "misto",
     "brazilian": "s"
   },
   {
@@ -301,7 +381,23 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Edson & Hudson",
+    "year": 1994,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Edward Maya",
+    "year": 2009,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Elba Ramalho",
@@ -309,7 +405,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Elis Regina",
@@ -317,7 +413,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Elton John",
@@ -328,7 +424,7 @@
     "brazilian": "n"
   },
   {
-    "name": "EmÃ­lio Santiago",
+    "name": "Emílio Santiago",
     "year": 1975,
     "members": 1,
     "genre": "mpb",
@@ -336,12 +432,20 @@
     "brazilian": "s"
   },
   {
+    "name": "Eminem",
+    "year": 1996,
+    "members": 1,
+    "genre": "rap",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
     "name": "Engenheiros do Hawaii",
     "year": 1986,
     "members": 3,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Eric Clapton",
@@ -357,10 +461,18 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Fábio Jr.",
+    "year": 1976,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
     "brazilian": "s"
   },
   {
-    "name": "FafÃ¡ de BelÃ©m",
+    "name": "Fafá de Belém",
     "year": 1976,
     "members": 1,
     "genre": "mpb",
@@ -373,26 +485,10 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "Fundo de Quintal",
-    "year": 1980,
-    "members": 6,
-    "genre": "mpb",
-    "gender": "homens",
-    "brazilian": "s"
-  },
-  {
-    "name": "FÃ¡bio Jr.",
-    "year": 1976,
-    "members": 1,
-    "genre": "pop",
-    "gender": "homens",
-    "brazilian": "s"
-  },
-  {
-    "name": "FÃ¡tima Guedes",
+    "name": "Fátima Guedes",
     "year": 1979,
     "members": 1,
     "genre": "mpb",
@@ -400,12 +496,28 @@
     "brazilian": "s"
   },
   {
+    "name": "Fernando & Sorocaba",
+    "year": 2007,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Fundo de Quintal",
+    "year": 1980,
+    "members": 6,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
     "name": "Gabriel O Pensador",
     "year": 1993,
     "members": 1,
     "genre": "rap",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Gal Costa",
@@ -413,7 +525,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "George Michael",
@@ -421,7 +533,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Gian & Giovani",
@@ -429,7 +541,7 @@
     "members": 2,
     "genre": "sertanejo",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Gilberto Gil",
@@ -437,7 +549,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Gonzaguinha",
@@ -445,7 +557,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Gretchen",
@@ -453,10 +565,10 @@
     "members": 1,
     "genre": "pop",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "Grupo RaÃ§a",
+    "name": "Grupo Raça",
     "year": 1990,
     "members": 6,
     "genre": "mpb",
@@ -469,7 +581,15 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Gusttavo Lima",
+    "year": 2009,
+    "members": 1,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Ira!",
@@ -477,7 +597,15 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Israel Novaes",
+    "year": 2012,
+    "members": 1,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Ivan Lins",
@@ -485,7 +613,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Ivete Sangalo",
@@ -493,11 +621,19 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Janet Jackson",
     "year": 1982,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Jennifer Lopez",
+    "year": 1999,
     "members": 1,
     "genre": "pop",
     "gender": "mulheres",
@@ -509,6 +645,22 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "João Bosco & Vinícius",
+    "year": 2002,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "s"
+  },
+  {
+    "name": "João Neto & Frederico",
+    "year": 2000,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
     "brazilian": "s"
   },
   {
@@ -520,10 +672,34 @@
     "brazilian": "n"
   },
   {
+    "name": "JoJo Todynho",
+    "year": 2017,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
     "name": "Jon Bon Jovi",
     "year": 1990,
     "members": 1,
     "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Jon Secada",
+    "year": 1992,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Jorge & Mateus",
+    "year": 2005,
+    "members": 2,
+    "genre": "sertanejo",
     "gender": "homens",
     "brazilian": "n"
   },
@@ -533,7 +709,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Jota Quest",
@@ -541,15 +717,23 @@
     "members": 5,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "KLB",
-    "year": 2000,
-    "members": 3,
+    "name": "Justin Bieber",
+    "year": 2009,
+    "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Justin Timberlake",
+    "year": 2002,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Karametade",
@@ -557,15 +741,31 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "KatinguelÃª",
+    "name": "Katinguelê",
     "year": 1991,
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Katy Perry",
+    "year": 2008,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Kesha",
+    "year": 2009,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Kid Abelha",
@@ -573,7 +773,31 @@
     "members": 3,
     "genre": "rock",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Kiloucura",
+    "year": 1993,
+    "members": 6,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Kim Carnes",
+    "year": 1967,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "KLB",
+    "year": 2000,
+    "members": 3,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Kleiton & Kledir",
@@ -581,7 +805,15 @@
     "members": 2,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Lady Gaga",
+    "year": 2008,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Laura Branigan",
@@ -597,10 +829,18 @@
     "members": 2,
     "genre": "sertanejo",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "LegiÃ£o Urbana",
+    "name": "LeAnn Rimes",
+    "year": 1996,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Legião Urbana",
     "year": 1985,
     "members": 4,
     "genre": "rock",
@@ -608,12 +848,20 @@
     "brazilian": "s"
   },
   {
+    "name": "Leona Lewis",
+    "year": 2007,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
     "name": "Leonardo",
     "year": 1991,
     "members": 1,
     "genre": "sertanejo",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Lionel Richie",
@@ -621,10 +869,10 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "LobÃ£o & Os Ronaldos",
+    "name": "Lobão & Os Ronaldos",
     "year": 1982,
     "members": 4,
     "genre": "rock",
@@ -637,7 +885,15 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Luan Santana",
+    "year": 2009,
+    "members": 1,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Lucio Dalla",
@@ -645,7 +901,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Luiz Caldas",
@@ -653,7 +909,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Lulu Santos",
@@ -661,15 +917,7 @@
     "members": 1,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
-  },
-  {
-    "name": "Milton Nascimento",
-    "year": 1967,
-    "members": 1,
-    "genre": "mpb",
-    "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Madonna",
@@ -677,7 +925,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Mamonas Assassinas",
@@ -685,7 +933,7 @@
     "members": 5,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Marcos Sabino",
@@ -693,15 +941,15 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "Maria BethÃ¢nia",
+    "name": "Maria Bethânia",
     "year": 1965,
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Marina",
@@ -709,7 +957,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Marisa Monte",
@@ -717,10 +965,10 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "MaurÃ­cio Manieri",
+    "name": "Maurício Manieri",
     "year": 1998,
     "members": 1,
     "genre": "pop",
@@ -733,7 +981,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Michael Jackson",
@@ -744,10 +992,26 @@
     "brazilian": "n"
   },
   {
+    "name": "Michel Teló",
+    "year": 2009,
+    "members": 1,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "s"
+  },
+  {
     "name": "Milli Vanilli",
     "year": 1988,
     "members": 2,
     "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Milton Nascimento",
+    "year": 1967,
+    "members": 1,
+    "genre": "mpb",
     "gender": "homens",
     "brazilian": "n"
   },
@@ -757,7 +1021,31 @@
     "members": 7,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Montell Jordan",
+    "year": 1995,
+    "members": 1,
+    "genre": "rap",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Mr. Big",
+    "year": 1989,
+    "members": 4,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Munhoz & Mariano",
+    "year": 2009,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "N Sync",
@@ -781,7 +1069,7 @@
     "members": 8,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Netinho",
@@ -789,7 +1077,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Nirvana",
@@ -800,12 +1088,36 @@
     "brazilian": "n"
   },
   {
+    "name": "NX Zero",
+    "year": 2006,
+    "members": 5,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Oasis",
+    "year": 1994,
+    "members": 5,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
     "name": "Olodum",
     "year": 1980,
     "members": 20,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "One Direction",
+    "year": 2011,
+    "members": 5,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Orlando Morais",
@@ -813,7 +1125,7 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Os Morenos",
@@ -821,7 +1133,7 @@
     "members": 4,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Os Paralamas do Sucesso",
@@ -829,7 +1141,7 @@
     "members": 3,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Os Travessos",
@@ -837,7 +1149,7 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Pato Fu",
@@ -845,7 +1157,7 @@
     "members": 3,
     "genre": "rock",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Patrick Swayze",
@@ -872,20 +1184,44 @@
     "brazilian": "n"
   },
   {
+    "name": "Paula Fernandes",
+    "year": 2005,
+    "members": 1,
+    "genre": "sertanejo",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
     "name": "Paulo Ricardo",
     "year": 1989,
     "members": 1,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "PepÃª & NenÃ©m",
+    "name": "Pepê & Neném",
     "year": 1999,
     "members": 2,
     "genre": "pop",
     "gender": "mulheres",
     "brazilian": "s"
+  },
+  {
+    "name": "Perlla",
+    "year": 2006,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
+  },
+  {
+    "name": "Peter Cetera",
+    "year": 1981,
+    "members": 1,
+    "genre": "pop",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Phil Collins",
@@ -904,10 +1240,10 @@
     "brazilian": "n"
   },
   {
-    "name": "RPM",
-    "year": 1985,
-    "members": 4,
-    "genre": "rock",
+    "name": "Raça Negra",
+    "year": 1991,
+    "members": 7,
+    "genre": "mpb",
     "gender": "homens",
     "brazilian": "s"
   },
@@ -917,15 +1253,15 @@
     "members": 1,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "RaÃ§a Negra",
-    "year": 1991,
-    "members": 7,
-    "genre": "mpb",
-    "gender": "homens",
-    "brazilian": "s"
+    "name": "Rihanna",
+    "year": 2005,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Rita Lee",
@@ -933,7 +1269,7 @@
     "members": 1,
     "genre": "rock",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Ritchie",
@@ -941,7 +1277,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Robbie Williams",
@@ -957,7 +1293,7 @@
     "members": 1,
     "genre": "sertanejo",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Roberto Carlos",
@@ -965,7 +1301,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Rosana",
@@ -973,7 +1309,7 @@
     "members": 1,
     "genre": "pop",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Roupa Nova",
@@ -981,10 +1317,18 @@
     "members": 6,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "Sandra SÃ¡",
+    "name": "RPM",
+    "year": 1985,
+    "members": 4,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Sandra Sá",
     "year": 1980,
     "members": 1,
     "genre": "mpb",
@@ -997,7 +1341,23 @@
     "members": 2,
     "genre": "pop",
     "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Seu Jorge",
+    "year": 2001,
+    "members": 1,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Shakira",
+    "year": 1991,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Skank",
@@ -1005,7 +1365,23 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Só Pra Contrariar",
+    "year": 1993,
+    "members": 6,
+    "genre": "mpb",
+    "gender": "homens",
     "brazilian": "s"
+  },
+  {
+    "name": "Sorriso Maroto",
+    "year": 2002,
+    "members": 5,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Soweto",
@@ -1013,7 +1389,7 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Spice Girls",
@@ -1037,15 +1413,31 @@
     "members": 1,
     "genre": "sertanejo",
     "gender": "mulheres",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "SÃ³ Pra Contrariar",
-    "year": 1993,
-    "members": 6,
-    "genre": "mpb",
+    "name": "Surface",
+    "year": 1983,
+    "members": 3,
+    "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Survivor",
+    "year": 1979,
+    "members": 5,
+    "genre": "rock",
+    "gender": "homens",
+    "brazilian": "n"
+  },
+  {
+    "name": "Taylor Swift",
+    "year": 2006,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Terra Samba",
@@ -1053,7 +1445,15 @@
     "members": 6,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "The Black Eyed Peas",
+    "year": 1998,
+    "members": 4,
+    "genre": "rap",
+    "gender": "misto",
+    "brazilian": "n"
   },
   {
     "name": "Tim Maia",
@@ -1061,10 +1461,10 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
-    "name": "TitÃ£s",
+    "name": "Titãs",
     "year": 1984,
     "members": 8,
     "genre": "rock",
@@ -1077,7 +1477,7 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Ultraje a Rigor",
@@ -1085,7 +1485,15 @@
     "members": 4,
     "genre": "rock",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Victor & Leo",
+    "year": 2002,
+    "members": 2,
+    "genre": "sertanejo",
+    "gender": "homens",
+    "brazilian": "n"
   },
   {
     "name": "Wando",
@@ -1093,7 +1501,15 @@
     "members": 1,
     "genre": "mpb",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
+  },
+  {
+    "name": "Wanessa Camargo",
+    "year": 2000,
+    "members": 1,
+    "genre": "pop",
+    "gender": "mulheres",
+    "brazilian": "n"
   },
   {
     "name": "Whitney Houston",
@@ -1104,7 +1520,23 @@
     "brazilian": "n"
   },
   {
-    "name": "ZezÃ© Di Camargo & Luciano",
+    "name": "Zé Ramalho",
+    "year": 1978,
+    "members": 1,
+    "genre": "mpb",
+    "gender": "homens",
+    "brazilian": "s"
+  },
+  {
+    "name": "Zélia Duncan",
+    "year": 1994,
+    "members": 1,
+    "genre": "mpb",
+    "gender": "mulheres",
+    "brazilian": "s"
+  },
+  {
+    "name": "Zezé Di Camargo & Luciano",
     "year": 1991,
     "members": 2,
     "genre": "sertanejo",
@@ -1117,30 +1549,6 @@
     "members": 1,
     "genre": "mpb",
     "gender": "mulheres",
-    "brazilian": "s"
-  },
-  {
-    "name": "ZÃ© Ramalho",
-    "year": 1978,
-    "members": 1,
-    "genre": "mpb",
-    "gender": "homens",
-    "brazilian": "s"
-  },
-  {
-    "name": "ZÃ©lia Duncan",
-    "year": 1994,
-    "members": 1,
-    "genre": "mpb",
-    "gender": "mulheres",
-    "brazilian": "s"
-  },
-  {
-    "name": "Ã o Tchan",
-    "year": 1994,
-    "members": 6,
-    "genre": "mpb",
-    "gender": "misto",
-    "brazilian": "s"
+    "brazilian": "n"
   }
 ]

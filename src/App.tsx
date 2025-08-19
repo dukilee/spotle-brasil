@@ -20,11 +20,14 @@ const todayItem = getDailyItem();
 export default function AutoComplete() {
   const [boxGroup, setBoxGroup] = useState<JSX.Element[]>([]);
   const [searches, setSearches] = useState(0);
+  const [guessed, setGuessed] = useState<string[]>([])
   const limit = 10;
 
   const bandSelected = function(band: InterfaceDictionaryEntry){
-    setSearches(searches + 1);
+    if(guessed.includes(band.name)) return; // already guessed this band
+    setGuessed([...guessed, band.name]);
 
+    setSearches(searches + 1);
 
     //year
     let yearString = band.year.toString();
@@ -80,11 +83,9 @@ export default function AutoComplete() {
   }
 
   return (
-    <div>
-      <div>
+    <div className='app-container'>
+      <div className='search-bar'>
         Ja fez {searches}/{limit} buscas.
-      </div>
-      <div>
         <DropDown  updateSelection={bandSelected} />
       </div>
       <div>
