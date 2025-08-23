@@ -48,6 +48,14 @@
     "brazilian": "s"
   },
   {
+    "name": "Alcione",
+    "year": 1975,
+    "members": 1,
+    "genre": "samba",
+    "gender": "mulheres",
+    "brazilian": "s"
+  },
+  {
     "name": "Ara Ketu",
     "year": 1985,
     "members": 8,
@@ -340,6 +348,14 @@
     "year": 1996,
     "members": 2,
     "genre": "rap",
+    "gender": "homens",
+    "brazilian": "s"
+  },
+  {
+    "name": "CPM 22",
+    "year": 1995,
+    "members": 5,
+    "genre": "rock",
     "gender": "homens",
     "brazilian": "s"
   },
@@ -1117,7 +1133,7 @@
     "members": 5,
     "genre": "pop",
     "gender": "homens",
-    "brazilian": "s"
+    "brazilian": "n"
   },
   {
     "name": "Orlando Morais",
